@@ -1,0 +1,29 @@
+# Ignore Python virtual environments
+venv/
+env/
+.virtualenv/
+.venv/
+
+# Ignore Jupyter notebook files
+*.ipynb
+
+# Ignore other common Python temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore any environment configuration files for virtualenvs created by some IDEs
+.idea/
+.vscode/
