@@ -4,6 +4,8 @@ env/
 .virtualenv/
 .venv/
 *.env
+*.csv
+
 
 # Ignore Jupyter notebook files
 *.ipynb
